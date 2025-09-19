@@ -1,6 +1,7 @@
 # Google-Adk-Agents
 
   testAgent : 
+  
      - functions passed to tools get weather and time of specific city (restricted to new york in this case)
      - run by  
         adk web
@@ -8,6 +9,7 @@
 
 
   googleSerachStreamingAgent :
+  
      - using google serch via agent
      - we don't have live models to communicate now , if availble can be directly replaced and audio and video mode can be used to get serch results
 
